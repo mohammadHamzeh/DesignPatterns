@@ -1,0 +1,9 @@
+{
+    "name": "root/observer",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
